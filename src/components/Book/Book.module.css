@@ -1,0 +1,24 @@
+.book{
+    padding: 20px;
+    background-color: rgb(160, 160, 160);
+}
+
+.title{
+    color: black;
+}
+
+.author{
+    color: rgb(58, 58, 58);
+}
+
+.enabled{
+    background-color: green;
+    color: #ffffff;
+    margin: 10px;
+}
+
+.disabled{
+    background-color: red;
+    color: white;
+    margin: 10px;
+}
